@@ -45,6 +45,7 @@ This Django Rest Framework API provides various functionalities for a social net
    
 The project is containerized using Docker. Docker Compose file (docker-compose.yml) and Dockerfile (Dockerfile) are provided for easy deployment.
 You can directly use below docker commands directly. Or you can set it up manually from here - [Manual Setup](#manual-setup)
+
 3. **Build and Run Docker Containers**
     ```bash
     docker-compose up --build -d
