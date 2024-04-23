@@ -1,0 +1,6 @@
+venv
+.git
+.idea
+.gitignore
+__pycache__/
+migrations
